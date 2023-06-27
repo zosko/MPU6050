@@ -1,4 +1,4 @@
-# MPU605-module
+# MPU6050-module
 MPU6050 Module board
 
 ## Scheme
